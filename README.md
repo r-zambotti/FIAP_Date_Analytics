@@ -1,2 +1,2 @@
 # FIAP_Data_Analytics_Estudos
-repositório criado para compartilhar projetos da Pós
+Repositório criado para compartilhar projetos da Pós
